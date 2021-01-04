@@ -1,0 +1,33 @@
+
+
+
+
+
+.container{
+    border: 5px solid purple;
+    margin: 5px;
+    padding:10px;
+    display:flex;
+    justify-content:space-between;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: #00FFCC;
+}
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: #FEE975;
+}
+.pink {
+    width: 100px;
+    height: 100px;
+    background-color: #E4A4EE;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: #17D3FF;
+}
